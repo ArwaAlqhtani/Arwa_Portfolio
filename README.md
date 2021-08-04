@@ -13,11 +13,3 @@ based on evaluation metrics
 
 
 
-# [Project 2 : International Football EDA](https://github.com/ArwaAlqhtani/-International-Football-EDA) ⚽️
-Analyzing all Internationals Football matches since 1872, which witnessed the first match 
-between the national teams of Scotland and England until 2021 year 
-using exploratory data analysis and drawing tools like plotly and matplotlib
-
-
-![](https://github.com/ArwaAlqhtani/Arwa_Portfolio/blob/main/images/pic1.png)
-
