@@ -27,6 +27,6 @@ This project can help in early detection of chronic kidney diseaseto stop or slo
 kidney disease by referring patients to preventive and early intervention treatments.
 we apply 3 different classification algorithms using R language to predict whether the person will develop a CKD or not
 ![](https://github.com/ArwaAlqhtani/Arwa_Portfolio/blob/91f4906c58e188f225b9bc5ac5b11275e48dae77/images/20210128-Chronic-Kidney2.jpg)
-![](https://github.com/ArwaAlqhtani/Arwa_Portfolio/blob/52ba5dbe0e314f932a60eb7324fb30fa0daf7db7/images/R%20language.JPG)
+
 
 
