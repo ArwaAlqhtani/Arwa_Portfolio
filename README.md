@@ -26,7 +26,7 @@ using exploratory data analysis and drawing tools like plotly and matplotlib
 This project can help in early detection of chronic kidney disease to stop or slow the progression of the
 kidney disease by referring patients to preventive and early intervention treatments.
 we apply 3 different classification algorithms using R language to predict whether the person will develop a CKD or not
-![pic1](images/20210128-Chronic-Kidney2.jpg)
+![pic11](images/20210128-Chronic-Kidney2.jpg)
 
 
 
