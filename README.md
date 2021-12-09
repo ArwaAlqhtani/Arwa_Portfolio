@@ -22,4 +22,10 @@ using exploratory data analysis and drawing tools like plotly and matplotlib
 
 
 
+# [Project 3 : Chronic kidney disease_prediction](https://github.com/ArwaAlqhtani/kidney_disease_prediction.git)
+This project can help in early detection of chronic kidney diseaseto stop or slow the progression of the
+kidney disease by referring patients to preventive and early intervention treatments.
+![]()
+
+
 
