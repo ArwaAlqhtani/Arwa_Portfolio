@@ -23,7 +23,7 @@ using exploratory data analysis and drawing tools like plotly and matplotlib
 
 
 # [Project 3 : Chronic kidney disease prediction](https://github.com/ArwaAlqhtani/kidney_disease_prediction.git)
-This project can help in early detection of chronic kidney diseaseto stop or slow the progression of the
+This project can help in early detection of chronic kidney disease to stop or slow the progression of the
 kidney disease by referring patients to preventive and early intervention treatments.
 we apply 3 different classification algorithms using R language to predict whether the person will develop a CKD or not
 ![pic1](https://github.com/ArwaAlqhtani/Arwa_Portfolio/blob/91f4906c58e188f225b9bc5ac5b11275e48dae77/images/20210128-Chronic-Kidney2.jpg)
